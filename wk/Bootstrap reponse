@@ -1,0 +1,99 @@
+1. Pourquoi utiliser un éditeur de texte amélioré plutôt qu’un simple bloc-note ? 
+
+        Un éditeur de texte est un logiciel permettant de rédiger des fichiers au format texte brut, sans mise en forme.
+        Les éditeurs de texte sont notamment utilisés par les programmeurs. Le Bloc-notes (notepad.exe) est un éditeur de texte nativement intégré dans Windows.
+        - la capacité à personnaliser un environnement avec des plugins et des intégrations.
+        -  panel d'outils dédiés à la programmation
+        -  la coloration syntaxique
+        -  la gestion des fichiers
+        -  la gestion des projets
+        -  la gestion des versions
+        -  la gestion des plugins
+        -  la gestion des snippets
+        -  la gestion des macros
+        -  la gestion des templates
+        -  la gestion des bookmarks
+        -  la gestion des raccourcis clavier
+        -  la gestion des thèmes
+        -  la gestion des mises à jour
+        -  la gestion des extensions
+
+2. Qu’est-ce qu’un framework (Web) ? 
+
+    cadre de travail qui permet de créer des applications web et mobiles. Un framework propose une bibliothèque de fonctionnalités dans laquelle vos développeurs vont pouvoir piocher en fonction de vos besoins. En développement, l’utilisation d’un framework permet donc de gagner du temps et aujourd’hui, il s’agit d’un standard dans la construction d’un projet web ou mobile.C’est pour cette raison qu’on a pour habitude de les comparer à une boite à outils. Un framework est construit autour d’un langage de programmation
+
+3. Quels sont les avantages et inconvénients d’utiliser un framework Web ? 
+            Les avantages :
+                - La rapidité de développement du projet. Il sera inutile de re-développer tout un tas de fonctions, servez-vous tout est là ! (ou presque )
+                - Pour les frameworks en MVC : Le travail en groupe est simplifié, les designers s'occupent des vues et les développeurs s'occupent de la partie métier, le tout en même temps et sur des fichiers différents. En ajoutant un système de versionning de type GIT le tout est vraiment magique
+                - Une armée de développeurs rendront toujours un travail plus sécurisant qu'un seul développeur, l'aspect sécurité est très important ne négligez pas ce détail.
+                - Le coté open sources des solutions
+                - En parlant d'open source, participez aux évolutions de la communauté, et ajouter le sur votre CV, encore un bon point
+                - Les frameworks sont souvent très performants, ils sont souvent testés et optimisés par des milliers de développeurs.
+                - Les frameworks sont souvent très stables, les mises à jour sont souvent très bien documentées et les développeurs sont souvent très réactifs en cas de problème.
+                - Les frameworks sont souvent très bien documentés, il est donc très facile de trouver des solutions à vos problèmes.
+                - Les frameworks sont souvent très bien testés, il est donc très facile de trouver des solutions à vos problèmes.
+
+        Les inconvénients :
+                - Maitriser un framework prend du temps, cela peut-être quelques heures pour réaliser un travail simple à plusieurs semaines pour l'utilisation avancé d'un framework complexe. Il faut comprendre son fonctionnement interne, connaître les bonnes pratiques, savoir comment débuger, lire la documentation etc ... Histoire de montrer à quel point cela peut être complexe il faut savoir que certaines sociétés font appel à des experts dans certains framework type Symfony ou Zend, il ne suffira donc pas d'un ou deux jours pour maîtriser en détail le sujet, c'est carrément un métier. Mais n'ayez crainte ! Inutile d'être un expert pour une utilisation rapide et d'un niveau de complexité faible.
+                - C'est lourd ! En effet, imaginez que vous ayez besoin uniquement d'un marteau dans une boite à outils qui contient plus de 1.000 outils différents  ... Vous n'aurez certainement jamais un projet qui utilisera 100% des fonctionnalités offertes par le framework !
+                - La documentation est souvent complexe, il faut donc avoir un bon niveau en anglais pour pouvoir la comprendre. C'est un point qui peut être un frein pour certains, mais il faut savoir que les frameworks sont de plus en plus traduits en français, et que les communautés sont de plus en plus nombreuses.
+                - Les mises à jour sont souvent complexes, il faut donc être vigilant et ne pas hésiter à lire les changelogs avant de mettre à jour votre projet.
+                - Les frameworks sont souvent très complexes, il faut donc avoir un bon niveau en programmation pour pouvoir les utiliser correctement.
+
+4. jQuery est-il un framework ou une librairie ? Pourquoi ? 
+    jQuery est une bibliothèque JavaScript libre et multiplateforme créée pour faciliter l'écriture de scripts côté client dans le code HTML des pages web.
+
+5. Quels sont les avantages et inconvénients d’utiliser un outil comme jQuery ? 
+    les avantages :
+            - Support Ajax
+            - Support des animations CSS
+            - Très populaire
+            - Facile à utiliser
+            - Support des plugins
+            - Support des événements
+
+    les inconvénients :
+            - Peu de fonctionnalités
+            - Peu de documentation
+            - Peu de support
+            - Peu de communauté
+
+6. Qu’est-ce qu’un CDN dans le domaine Web ? Quels sont les avantages et les inconvénients ?
+    Un réseau de diffusion de contenu (CDN) est un groupe de serveurs géographiquement distribués qui accélèrent la diffusion de contenu Web en le rapprochant de l'endroit où se trouvent les utilisateurs. Les centres de données du monde entier utilisent la mise en cache, processus qui stocke temporairement des copies de fichiers, afin que vous puissiez accéder plus rapidement au contenu Internet à partir d'un terminal ou d'un navigateur Web via un serveur proche de vous. Les CDN mettent en cache du contenu tel que des pages Web, des images et des vidéos dans les serveurs proxy proches de votre emplacement physique. Cela vous permet de regarder un film, de télécharger un logiciel, de consulter votre solde bancaire, de publier des messages sur les médias sociaux ou de faire des achats, sans avoir à attendre que le contenu se charge.
+
+    Les avantages :
+            -Les CDN étant placés au plus près de l'utilisateur, il est possible de réduire la latence lorsque la distance que votre contenu doit parcourir est plus courte. Un CDN peut accélérer considérablement le chargement de votre site web. Par exemple, si votre site Web est basé au Royaume-Uni et que vous recevez du trafic des États-Unis, il est possible que votre fournisseur de CDN ait un serveur aux États-Unis et qu'il utilise ce serveur pour votre site Web.
+            -Les CDN peuvent également réduire la charge sur votre serveur. Si vous avez un site Web très populaire, il est possible que votre serveur soit surchargé. Un CDN peut réduire la charge sur votre serveur en stockant des copies de votre contenu sur ses propres serveurs. Lorsque les utilisateurs accèdent à votre site Web, ils peuvent accéder à ces copies stockées sur le CDN, ce qui réduit la charge sur votre serveur.
+            -Les CDN peuvent également améliorer la disponibilité de votre site Web. Si votre site Web est basé sur un serveur dédié ou un serveur virtuel, il est possible que votre serveur tombe en panne. Si vous utilisez un CDN, les utilisateurs peuvent toujours accéder à votre site Web en utilisant les copies stockées sur le CDN.
+            -Les CDN peuvent également améliorer la sécurité de votre site Web. Si vous utilisez un CDN, vous pouvez configurer votre CDN pour qu'il ne stocke que des copies de votre contenu. Cela signifie que les utilisateurs ne peuvent pas accéder à votre site Web directement à partir de votre serveur. Cela peut être utile si vous souhaitez protéger votre site Web contre les attaques de déni de service (DDoS).
+
+    Les inconvénients :
+            -Les CDN sont généralement payants. Vous devez payer pour l'espace de stockage et le trafic que vous utilisez. Cependant, les CDN sont généralement moins chers que les serveurs dédiés et les serveurs virtuels.
+            -Les CDN ne sont pas toujours disponibles dans toutes les régions. Par exemple, si vous souhaitez utiliser un CDN basé aux États-Unis, vous ne pourrez pas utiliser ce CDN si vous êtes basé en Europe.
+            -Les CDN peuvent également ralentir votre site Web. Si vous utilisez un CDN, vos utilisateurs doivent d'abord accéder au CDN pour obtenir votre contenu. Cela peut ralentir le chargement de votre site Web. Cependant, si vous utilisez un CDN, vous pouvez configurer votre CDN pour qu'il stocke des copies de votre contenu sur ses propres serveurs. Cela permet aux utilisateurs d'accéder directement à votre contenu à partir du CDN, ce qui accélère le chargement de votre site Web.
+
+
+
+A quoi correspondent les différentes balises ? 
+ 
+<header> : header de la page. Définit un en-tête pour un document ou une section.
+ 
+<nav> :  navigation de la page. Définit un ensemble de liens de navigation.
+ 
+<article> :  article de la page. Définit un contenu indépendant dans un document.
+ 
+<section> :  section de la page. Définit une section dans un document.
+ 
+<aside> :  aside de la page. Définit un contenu qui est lié à la page mais qui n'est pas essentiel au contenu principal.
+ 
+<footer> : footer de la page. Définit un pied de page pour un document ou une section.
+
+
+1. Pourquoi utiliser une librairie d’icônes telle que FontAwesome plutôt que de simples images ? 
+        Les icônes sont des images vectorielles qui peuvent être redimensionnées sans perte de qualité. Elles sont donc idéales pour les sites web et les applications mobiles. Elles sont également très légères et peuvent être utilisées sur n'importe quel appareil.
+ 
+ 
+2. Quelle autre alternative existe pour utiliser FontAwesome hormis le téléchargement ?
+        Il est possible d'utiliser un CDN pour utiliser FontAwesome. Cela permet d'éviter de télécharger les fichiers sur son ordinateur et de les mettre sur son serveur. Cela permet également de réduire la taille des fichiers à télécharger pour les utilisateurs.
+        

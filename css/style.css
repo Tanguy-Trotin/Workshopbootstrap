@@ -1,0 +1,58 @@
+/* Path: css\style.css */
+
+
+header {
+text-align: center;
+        }
+
+nav {
+    margin-top: 20px;
+}
+
+.navbar{
+    list-style-type: none;
+    margin: center;
+    padding: 0;
+    margin-top: 20px;
+}
+
+ul {
+list-style-type: none;
+margin: center;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+width: 100%;
+}
+            
+li {
+float: center;
+}
+            
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+            
+li a:hover {
+background-color: rgb(92, 92, 92);
+color: white;
+}
+        
+
+.container {
+color: black;
+text-align: center;
+
+}
+
+.row {
+    border: 1px solid red;
+}
+
+.col {
+    border: 1px solid green;
+}
